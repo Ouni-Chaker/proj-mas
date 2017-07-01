@@ -1,9 +1,10 @@
 {% extends '::base.html.twig' %}
 {%block title %}
-    bb
+    الاستقبال
 {% endblock %}
 {% block body %}
-    <div class="jumbotron">
-        Hello World!
-    </div>
+    {% include '::navbar.html.twig' %}
+    {% include '::head.html.twig' %}
+    {% include '::panel.html.twig' %}
+    {% include '::footer.html.twig' %}
 {%endblock%}
