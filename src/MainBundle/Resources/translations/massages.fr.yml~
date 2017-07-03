@@ -1,0 +1,33 @@
+base.title: 'Bienvenue sur le site proj_mas'
+navbar.home: Accuiel
+navbar.services: Services
+navbar.contact: Contact
+head.title: 'Bienvenue sur le site proj_mas'
+head.msg: 'Tutoriels videos'
+head.button: Voir
+breadcrumb.home: Accuiel
+breadcrumb.services: Services
+breadcrumb.contact: Contact
+panel.1.title: titre1
+panel.1.item: sousmenu1
+panel.1.details: details
+panel.2.title: titre2
+panel.2.item: sousmenu2
+panel.2.details: details
+panel.3.title: titre3
+panel.3.item: sousmenu3
+panel.3.details: details
+footer.title1: footer1
+footer.title2: footer2
+footer.title3: footer3
+footer.title4: footer4
+footer.title5: footer5
+footer.d1: details1
+footer.d2: details2
+footer.d3: details3
+footer.d4: details4
+footer.d5: details5
+footer.d6: details6
+footer.d7: details7
+footer.d8: details8
+footer.copyright: copyright
