@@ -3,4 +3,6 @@ re_main:
     defaults: { _controller: MainBundle:Default:index ,_locale: fr }
     requirements:
         _locale: en|fr
- 
+re_test:
+    path:     /test
+    defaults: { _controller: MainBundle:Default:test } 
